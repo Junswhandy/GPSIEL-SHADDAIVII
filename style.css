@@ -1,9 +1,10 @@
 body {
-  background-color: #fff;
+  background-color: rgb(245, 198, 198);
 }
 .jumbotron {
-  background-color: #fff;
+  background-color: rgb(245, 198, 198);
 }
+
 .jumbotron h1 {
   color: #221e5c;
   font-weight: 500px;
